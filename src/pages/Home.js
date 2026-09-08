@@ -78,7 +78,7 @@ const Home = () => {
             </div>
             <footer>
                 <h4>
-                    Built by &nbsp; by &nbsp;
+                    Built &nbsp; by &nbsp;
                     <a href="https://github.com/Geetika-G">Geetika</a>
                 </h4>
             </footer>
